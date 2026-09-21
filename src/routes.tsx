@@ -9,6 +9,7 @@ import Privacy from './pages/Privacy';
 import Terms from './pages/Terms';
 import Cookies from './pages/Cookies';
 import Download from './pages/Download';
+import Play from './pages/Play';
 import NotFound from './pages/NotFound';
 
 function Root() {
@@ -36,6 +37,7 @@ export const router = createBrowserRouter([
       { path: 'terms', Component: Terms },
       { path: 'cookies', Component: Cookies },
       { path: 'download', Component: Download },
+      { path: 'play', Component: Play },
       { path: '*', Component: NotFound },
     ],
   },

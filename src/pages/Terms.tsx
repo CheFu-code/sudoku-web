@@ -17,7 +17,7 @@ const sections = [
   },
   {
     title: '5. Purchases and payments',
-    text: 'The premium unlock is a one-time purchase. All purchases are final. We offer a 30-day money-back guarantee — contact support@sudoku.app with your order ID. Prices may vary by region and are displayed in your local currency at checkout. Payments are processed by Apple (App Store), Google (Play Store), or Stripe (web), and are subject to their respective terms. We do not store your payment information.',
+    text: 'The premium unlock is a one-time purchase. All purchases are final. We offer a 30-day money-back guarantee — contact sudoku@chefu.co.za with your order ID. Prices may vary by region and are displayed in your local currency at checkout. Payments are processed by Apple (App Store), Google (Play Store), or Stripe (web), and are subject to their respective terms. We do not store your payment information.',
   },
   {
     title: '6. Intellectual property',

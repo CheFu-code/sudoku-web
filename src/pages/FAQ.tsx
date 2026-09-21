@@ -23,7 +23,7 @@ const faqs = [
     items: [
       { q: 'What does the premium unlock include?', a: 'The premium one-time purchase ($4.99) unlocks the full puzzle library (50,000+ puzzles), detailed statistics, offline access, custom themes, and removes the soft limit on daily streak rewards.' },
       { q: 'Is there a subscription?', a: 'No. Never. We don\'t believe in subscriptions for a puzzle app. You pay once and own it permanently.' },
-      { q: 'Can I get a refund?', a: 'Yes. Within 30 days of purchase, no questions asked. Contact us at support@sudoku.app with your order ID.' },
+      { q: 'Can I get a refund?', a: 'Yes. Within 30 days of purchase, no questions asked. Contact us at sudoku@chefu.co.za with your order ID.' },
       { q: 'What happens to my account if I delete the app?', a: 'Your progress is stored in your account, not your device. Reinstall anytime and sign in to restore everything.' },
     ],
   },
