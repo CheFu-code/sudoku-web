@@ -1,0 +1,10 @@
+{
+  "description": "Provides a comprehensive website with privacy policy, home, and contact pages tailored for a Sudoku game platform without including the game itself.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
