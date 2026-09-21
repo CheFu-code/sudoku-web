@@ -49,7 +49,7 @@ const sections = [
   },
   {
     title: '13. Contact',
-    text: 'Questions about these Terms? Email legal@sudoku.app. Sudoku Inc., Mannerheimintie 12A, 00100 Helsinki, Finland.',
+    text: 'Questions about these Terms? Email legal@chefu.co.za Sudoku Inc., Mannerheimintie 12A, 00100 Helsinki, Finland.',
   },
 ];
 

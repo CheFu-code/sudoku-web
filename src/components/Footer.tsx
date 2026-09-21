@@ -31,8 +31,9 @@ export default function Footer() {
       </div>
 
       <div className="max-w-6xl mx-auto px-6 pb-8 flex flex-col md:flex-row items-start md:items-center justify-between gap-4 border-t border-[#2e2a24] pt-6">
-        <p className="text-xs text-[#6b6357] font-mono-custom">© 2026 Sudoku Inc. All rights reserved.</p>
-        <p className="text-xs text-[#6b6357]">Made with focus and patience.</p>
+        <p className="text-xs text-[#6b6357] font-mono-custom">© {new Date().getFullYear()} Sudoku Inc. All rights reserved.</p>
+        <p className="text-xs text-[#6b6357]">Made by Chefu Technologies (Pty) Ltd.</p>
+
       </div>
     </footer>
   );

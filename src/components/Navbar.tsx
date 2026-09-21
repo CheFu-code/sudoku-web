@@ -33,7 +33,7 @@ export default function Navbar() {
               {l.label}
             </NavLink>
           ))}
-          <Link to="/download" className="text-sm font-medium bg-[#1a1814] text-[#f5f0e8] px-4 py-2 rounded-sm hover:bg-[#3d3830] transition-colors">
+          <Link to="/play" className="text-sm font-medium bg-[#1a1814] text-[#f5f0e8] px-4 py-2 rounded-sm hover:bg-[#3d3830] transition-colors">
             Play Free
           </Link>
         </nav>
@@ -53,7 +53,7 @@ export default function Navbar() {
               {l.label}
             </NavLink>
           ))}
-          <Link to="/download" onClick={() => setOpen(false)}
+          <Link to="/play" onClick={() => setOpen(false)}
             className="text-sm font-medium bg-[#1a1814] text-[#f5f0e8] px-4 py-2 rounded-sm text-center hover:bg-[#3d3830] transition-colors">
             Play Free
           </Link>
