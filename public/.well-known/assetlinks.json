@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "co.za.chefu.sudoku",
+            "sha256_cert_fingerprints": [
+                "88:45:DF:DC:69:2A:E1:A4:C1:F8:B9:79:0B:F0:35:B7:EA:3F:83:DF:06:7C:68:8C:24:AC:1F:E2:5D:26:E0:83"
+            ]
+        }
+    }
+]
